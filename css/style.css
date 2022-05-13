@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Bangers&family=IM+Fell+English+SC&family=Marcellus+SC&display=swap");
 
 :root {
-  --bg-darker: #313434;
-  --bg-dark: #3d4040;
+  --bg-darker: #02BD99;
+  --bg-dark: #02C39A;
   --text-darker: #ffa34c;
   --text-dark: #ff8d20;
   --font-size: 16px;
@@ -39,7 +39,7 @@ img {
   justify-content: center;
 }
 .logo {
-  padding: 1rem 0;
+  padding: 2rem 0;
   border-bottom: 1px solid var(--bg-darker);
 }
 .logo p {
