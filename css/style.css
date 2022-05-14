@@ -143,37 +143,37 @@ img {
 }
 @keyframes light {
   0% {
-    box-shadow: 1px 1px 75px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 75px 1px rgba(2, 189, 153, .5);
   }
   10% {
-    box-shadow: 1px 1px 70px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 70px 1px rgba(2, 189, 153, .5);
   }
   20% {
-    box-shadow: 1px 1px 65px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 65px 1px rgba(2, 189, 153, .5);
   }
   30% {
-    box-shadow: 1px 1px 60px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 60px 1px rgba(2, 189, 153, .5);
   }
   40% {
-    box-shadow: 1px 1px 55px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 55px 1px rgba(2, 189, 153, .5);
   }
   50% {
-    box-shadow: 1px 1px 50px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 50px 1px rgba(2, 189, 153, 0.5);
   }
   60% {
-    box-shadow: 1px 1px 55px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 55px 1px rgba(2, 189, 153, 0.5);
   }
   70% {
-    box-shadow: 1px 1px 60px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 60px 1px rgba(2, 189, 153, 0.5);
   }
   80% {
-    box-shadow: 1px 1px 65px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 65px 1px rgba(2, 189, 153, 0.5);
   }
   90% {
-    box-shadow: 1px 1px 70px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 70px 1px rgba(2, 189, 153, 0.5);
   }
   100% {
-    box-shadow: 1px 1px 75px 1px rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 75px 1px rgba(2, 189, 153, 0.5);
   }
 }
 
